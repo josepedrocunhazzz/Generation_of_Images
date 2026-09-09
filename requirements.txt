@@ -1,0 +1,11 @@
+jupyter
+matplotlib
+medmnist
+numpy
+scipy
+tensorboard
+torch
+torch-fidelity
+torchmetrics
+torchvision
+tqdm
