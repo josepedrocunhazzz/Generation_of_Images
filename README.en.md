@@ -88,4 +88,4 @@ Locally, skip `google.colab`-specific cells, replace Drive paths with local dire
 
 ## Academic context
 
-Project presented in **José Cunha's** portfolio and developed in the University of Coimbra Master's programme in Data Science and Engineering. Full academic authorship, architectures, search spaces, curves, samples and discussion are recorded in the [report](Generation_of_Images.pdf).
+Work developed as part of the Master's programme in Data Science and Engineering at the University of Coimbra.
