@@ -88,4 +88,4 @@ Num ambiente local, ignorar as células específicas de `google.colab`, substitu
 
 ## Contexto académico
 
-Trabalho desenvolvido por **José Cunha e Marta Antunes**, no Mestrado em Engenharia e Ciência de Dados da Universidade de Coimbra. O [relatório](Generation_of_Images.pdf) apresenta arquiteturas, espaços de pesquisa, curvas, amostras e discussão completa.
+Projeto apresentado no portefólio de **José Cunha**, desenvolvido no Mestrado em Engenharia e Ciência de Dados da Universidade de Coimbra. A autoria académica completa, arquiteturas, espaços de pesquisa, curvas, amostras e discussão encontram-se no [relatório](Generation_of_Images.pdf).
